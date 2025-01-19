@@ -45,7 +45,6 @@ class player():
                 self.isOnFloor = False
 
         if self.isJumping:
-            print("sigma")
             if self.isOnFloor:
                 self.y_vel = 0
                 self.isJumping = False
