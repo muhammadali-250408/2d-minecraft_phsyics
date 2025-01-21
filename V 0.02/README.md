@@ -2,7 +2,7 @@
 - Breaking blocks
 
 ==BUG FIXES==
-- Slow running fixed by changing physics calculation from (/60*60) to just /60
+- Slow preformance fixed by changing physics calculation from (/60*60) to just /60
 - Player now falls due to gravity when no blocks under
 
 ==THINGS THAT WILL BE ADDED==
